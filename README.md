@@ -1,4 +1,7 @@
 # Python-Web-Browser
+
+[![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
+
 The most simplest web browser written in python using [PyQt5](https://pypi.org/project/PyQt5/) and [PyQtWebEngine](https://pypi.org/project/PyQtWebEngine/)
 
 Has simple features such as forward button, back button, url bar and go button
