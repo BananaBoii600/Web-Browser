@@ -28,7 +28,7 @@ pip install PyQtWebEngine
 ```
 in the command prompt/terminal
 
-#Setup
+# Setup
 
 Install the latest provided release and run the exe file
 
