@@ -10,7 +10,8 @@ The code is also neatly written and can be easily edited
 
 This browser uses google as the default engine for browsing and all the websites available in google will be available in this browser
 
-![alt text](https://cdn.discordapp.com/attachments/950043764062310450/957977147929153556/unknown.png)
+![image](https://user-images.githubusercontent.com/98301106/162248484-b3217e96-6cf0-42ee-b628-09f42fa7a80f.png)
+
 
 # Dependencies
 
