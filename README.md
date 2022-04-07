@@ -4,13 +4,12 @@
 
 The most simplest web browser written in python using [PyQt5](https://pypi.org/project/PyQt5/) and [PyQtWebEngine](https://pypi.org/project/PyQtWebEngine/)
 
-Has simple features such as forward button, back button, url bar and go button
-
-The code is also neatly written and can be easily edited
+The Code is cleanly written and can be easily edited
 
 This browser uses google as the default engine for browsing and all the websites available in google will be available in this browser
 
-![image](https://user-images.githubusercontent.com/98301106/162248484-b3217e96-6cf0-42ee-b628-09f42fa7a80f.png)
+![image](https://user-images.githubusercontent.com/98301106/162248849-918029cc-4486-4a2b-b141-608db5862e54.png)
+
 
 
 # Dependencies
